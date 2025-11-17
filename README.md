@@ -56,13 +56,15 @@ Appium-Automation-Awdenegest/
 1. Clone the repository:
 ```bash
 git clone https://github.com/R-kos77/Appium-Automation-Awdenegest.git
-Open the project in your IDE.
+```
+2. Open the project in your IDE.
 
-Ensure the Appium server is running and a device/emulator is connected.
+3. Ensure the Appium server is running and a device/emulator is connected.
 
-Run tests via testng.xml or directly from the IDE.
+4. Run tests via testng.xml or directly from your IDE.
 
 Example Test Run
+
 The suite performs the following steps:
 
 Inputs first and mother names in Amharic.
@@ -78,6 +80,7 @@ Validates that input fields are cleared or showing correct hint text.
 Multiple test data sets are handled automatically via TestNG DataProvider.
 
 Dependencies
+
 Appium Java Client
 
 Selenium WebDriver
@@ -85,6 +88,8 @@ Selenium WebDriver
 TestNG
 
 Author
+
 Robel Kiros
 GitHub: R-Kos77
+
 Email: robelalbeta@gmail.com
